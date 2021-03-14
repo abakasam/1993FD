@@ -1,11 +1,6 @@
 # 1993FD
 Using the Principles of Virology to match biology and artificial life for the computer scientist in studies of a cure like the Influenza virus.
 
-# vxheaven.org
-
-* https://github.com/opsxcq/mirror-vxheaven.org
-* https://archive.org/details/academictorrents_34ebe49a48aa532deb9c0dd08a08a017aa04d810
-
 # Biology
 
 The Influenza Viruses
@@ -16,5 +11,16 @@ ISBN-13: 978-1555812591, ISBN-10: 1555812597
 
 # Synthetic Biology
 
+Recent success with molecular programming: https://vaccinedeaths.com/2021-03-08-plot-to-turn-human-dna-into-a-programmable-operating-system.html .
+Past success with molecular programming: https://www.microsoft.com/en-us/research/project/programming-dna-circuits/#!publications
 
 # Artificial Life
+
+## vxheaven.org
+
+* https://github.com/opsxcq/mirror-vxheaven.org
+* https://archive.org/details/academictorrents_34ebe49a48aa532deb9c0dd08a08a017aa04d810
+
+## Observing interactions
+
+https://github.com/corewar/corewar.io
