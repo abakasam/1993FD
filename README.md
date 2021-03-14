@@ -31,3 +31,13 @@ Past success with molecular programming: https://www.microsoft.com/en-us/researc
 ### Observing interactions
 
 https://github.com/corewar/corewar.io
+
+Helpful books:
+
+Artificial Life
+https://alife.org/conferences/conferences-isal-past/
+
+Computer Viruses, Artificial Life and Evolution 
+ISBN 10: 0929408071ISBN 13: 9780929408071
+
+Computer Virology and Hacking Techniques (book by author)
