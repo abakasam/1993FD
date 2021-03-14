@@ -51,14 +51,3 @@ Digimon or Megaman | Elf or Vampire   | XMEN         | Mirror Edge  | Juiced    
 Government         | The Order        | The Society  | Police       | Gang         | Professional | Ariana       |
 a game             | supernatural eye | protected    | relations    |              |              |              | 
 
-Government - Megaman or Digimon
-Started with Yu Gi Oh and lost it to Digimon. Virus to mututate into a digital monster. Burn to pit crew, called it ProAm and then Ferrari, Had to lose F-Zero with the Air Force for staying at NASA. Ran to Megaman to get a heart back, where i have no debt nor pain and my family is there. With NASCAR till I touch Juiced with ridge from a brown paper towel,
-
-The Order - Elf or Vampire
-predict the future, i pratice fate, i am not a theif, i pay for what i do, so i do not know a prison, you are a game
-
-The Society - XMEN
-i am not intervened on, i was gifted by divinity, to have a existence, that does not require fighting, i get to exist, without known the pain, of the order, they, have to fight, even if they do not want to
-
-Police - Mirror Edge
-i will not do what you want, i will do what i can, because i pratice a prison, what i can do, is by the famil
