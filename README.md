@@ -21,7 +21,7 @@ ISBN-13: 978-1555812591, ISBN-10: 1555812597
 Recent success with molecular programming: https://vaccinedeaths.com/2021-03-08-plot-to-turn-human-dna-into-a-programmable-operating-system.html .
 Past success with molecular programming: https://www.microsoft.com/en-us/research/project/programming-dna-circuits/#!publications
 
-## Artificial Life (https://www.vxheaven.org)
+## Artificial Life (https://us.norton.com/)
 
 * https://github.com/opsxcq/mirror-vxheaven.org
 * https://archive.org/details/academictorrents_34ebe49a48aa532deb9c0dd08a08a017aa04d810
