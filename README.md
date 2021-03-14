@@ -40,93 +40,25 @@ https://alife.org/conferences/conferences-isal-past/
 Computer Viruses, Artificial Life and Evolution 
 ISBN 10: 0929408071ISBN 13: 9780929408071
 
-Computer Virology and Hacking Techniques (book by author)
+Computer Virology and Hacking Techniques
+(book by author)
 
 ## Keeping a heart
 
-NASA | Italy | Air Force | Texas | MIT | Import Tuner | ? | ?
------------- | ------------- | ------------ |
-Digimon or Megaman |
+NASA | Italy | Air Force | Texas | MIT | Import Tuner | Waiting 2030 | Waiting 2040
+------------ | ------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
+Digimon or Megaman | Elf or Vampire | XMEN | Mirror Edge | Juiced | Mario | Zelda
+Government | The Order | The Society | Police | Gang | Professional | Ariana
+a game | supernatural eye | protected | relations | - | - | - | 
 
 Government - Megaman or Digimon
-Started with Yu Gi Oh
-Lost it to Digimon
-Virus to mututate into a digital monster
-Burn to pit crew
-Called it ProAm
-Then Ferrari
-And had to lose F-Zero with the Air Force
-Stay at NASA
-Then run to Megaman to get a heart back
-No debt nor pain
-My family is there
-With NASCAR till I touch Juiced with ridge from a brown paper towel
-
-those who fight
-you have a spirit
-you have a family
-you must be of no conflict, no pain, and no ransom
-to be the best engineer
-because i lost the scienstist
-when i had to protect invisible girl
+Started with Yu Gi Oh and lost it to Digimon. Virus to mututate into a digital monster. Burn to pit crew, called it ProAm and then Ferrari, Had to lose F-Zero with the Air Force for staying at NASA. Ran to Megaman to get a heart back, where i have no debt nor pain and my family is there. With NASCAR till I touch Juiced with ridge from a brown paper towel,
 
 The Order - Elf or Vampire
-predict the future
-i pratice fate
-i am not a theif
-i pay for what i do
-so i do not know a prison
-you are a game
+predict the future, i pratice fate, i am not a theif, i pay for what i do, so i do not know a prison, you are a game
 
 The Society - XMEN
-i am not intervened on
-i was gifted by divinity
-to have a existence
-that does not require fighting
-i get to exist
-without known the pain
-of the order
-they have to fight
-even if they do not want to
+i am not intervened on, i was gifted by divinity, to have a existence, that does not require fighting, i get to exist, without known the pain, of the order, they, have to fight, even if they do not want to
 
 Police - Mirror Edge
-i will not do what you want
-i will do what i can
-because i pratice a prison
-what i can do
-is by the family
-
-Gang - Juiced
-too late or too close
-i am not loved enough
-i am not protected enough
-i can not pay for it
-i must have stole something
-now i have to wait to get 
-released from this prison
-
-Professional - Mario
-free
-influence my plan
-chance
-be apart of my plan
-choice
-change my plan
-i hang around a chance
-i have a will
-
-Ariana - Zelda
-i know more than you think
-those who fight me
-end up hurting themself
-because they are evil or pure evil
-and only wanted the power
-to kill someone else
-who do you fight
-those who are usually
-not with you
-and work with you
-when they do not fight you
-who usually loved by the one
-who guides you
-i do not fight
+i will not do what you want, i will do what i can, because i pratice a prison, what i can do, is by the famil
