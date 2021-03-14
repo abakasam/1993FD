@@ -16,12 +16,12 @@ ISBN 10: 146128094X / ISBN 13: 9781461280941
 Principles of Virology: Molecular Biology, Pathogenesis, and Control of Animal Viruses, 2nd Edition
 ISBN-13: 978-1555812591, ISBN-10: 1555812597
 
-## Synthetic Biology (synbio-tech.com)
+## Synthetic Biology (https://www.synbio-tech.com)
 
 Recent success with molecular programming: https://vaccinedeaths.com/2021-03-08-plot-to-turn-human-dna-into-a-programmable-operating-system.html .
 Past success with molecular programming: https://www.microsoft.com/en-us/research/project/programming-dna-circuits/#!publications
 
-## Artificial Life (vxheaven.org)
+## Artificial Life (https://www.vxheaven.org)
 
 * https://github.com/opsxcq/mirror-vxheaven.org
 * https://archive.org/details/academictorrents_34ebe49a48aa532deb9c0dd08a08a017aa04d810
