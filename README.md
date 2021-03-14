@@ -45,18 +45,18 @@ Computer Virology and Hacking Techniques (book by author)
 ## Keeping a heart
 
 Government - Megaman or Digimon
-Started with Yu Gi Oh
-Lost it to Digimon
-Virus to mututate into a digital monster
-Burn to pit crew
-Called it ProAm
-Then Ferrari
-And had to lose F-Zero with the Air Force
-Stay at NASA
-Then run to Megaman to get a heart back
-No debt nor pain
-My family is there
-With NASCAR till I touch Juiced with ridge from a brown paper towel
+ Started with Yu Gi Oh
+ Lost it to Digimon
+ Virus to mututate into a digital monster
+ Burn to pit crew
+ Called it ProAm
+ Then Ferrari
+ And had to lose F-Zero with the Air Force
+ Stay at NASA
+ Then run to Megaman to get a heart back
+ No debt nor pain
+ My family is there
+ With NASCAR till I touch Juiced with ridge from a brown paper towel
 
 those who fight
 you have a spirit
