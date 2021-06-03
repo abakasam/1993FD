@@ -41,6 +41,15 @@ ISBN 10: 0929408071ISBN 13: 9780929408071
 Computer Virology and Hacking Techniques
 (book by author)
 
+# Compliant
+## Keeping a body
+
+* steal - closed hardware (only open hardware is Dell, ...only super dupter, computing biology, not destructive, completely intuitive system is HP)
+* spy - spy([bloat]soft)ware
+* (GET) rape - virus, worm, tro-jan
+* forget -  police (people), military (government), ...oh so stupid
+* repeat - mal(soft)ware
+
 ## Keeping a heart
 
 NASA               | Italy            | Air Force    | Texas        | MIT          | Import Tuner | Waiting 2030 | Waiting 2040
