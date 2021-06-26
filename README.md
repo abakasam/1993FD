@@ -1,5 +1,5 @@
 # 1993FD
-Using the Principles of Virology to match biology and artificial life for the computer scientist in studies of a cure like the Influenza virus.
+Using the Principles of Virology to match biology and artificial life for synthetic production by using another symbolic language generated with interactions of a computer (hint) like the Influenza virus. The symbolic langugae to describe behavior or logic, like how math does for physics, is all that is wanted.
 
 # Behavior
 
