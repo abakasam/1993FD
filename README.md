@@ -1,5 +1,5 @@
 # 1993FD
-Using the Principles of Virology to match biology and artificial life for synthetic production by using another symbolic language generated with interactions of a computer (hint) like the Influenza virus. The symbolic langugae to describe behavior or logic, like how math does for physics, is all that is wanted. 1993FD is not the AIS. I threw away the book in 2016 created by a doctor and never brought the one called Articial Chemistry.
+Using the Principles of Virology to match biology and artificial life for synthetic production by using another symbolic language generated with interactions of a computer (hint) like the Influenza virus. The symbolic langugae to describe behavior or logic, like how math does for physics, is all that is wanted. 1993FD is not the AIS. I threw away the book in 2016 created by a doctor and never brought the one called Artificial Chemistry.
 # Behavior
 
 Without the language like math, it is useless to do this work. Biology to Synthetic Biology may be easy. Synthetic Biology to Artificial Life will require an inaccurate set of rules that generate two languages for the behavior (SB to AL) and definition (B and SB) on any virus.
