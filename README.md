@@ -1,5 +1,5 @@
 # 1993FD
-Using the Principles of Virology to match biology and artificial life for synthetic production by using another symbolic language generated with interactions of a computer (hint) like the Influenza virus. The symbolic langugae to describe behavior or logic, like how math does for physics, is all that is wanted. 1993FD is not the AIS. I threw away the book in 2016 created by a doctor and never brought the one called Artificial Chemistry.
+Using the Principles of Virology to match biology and artificial life for synthetic production by using another symbolic language generated with interactions of a computer (hint) like the Influenza virus. The symbolic langugae to describe behavior or logic, like how math does for physics, is all that is wanted. 1993FD is not the AIS. I threw away the book in 2016 created by a doctor and never brought the one called Artificial Chemistry. I will probably never work on NAB(immune system).
 
 # Behavior
 
