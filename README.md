@@ -58,7 +58,7 @@ NASA               | Italy            | Air Force    | Texas        | MIT       
 ------------       | -------------    | ------------ | ------------ | ------------ | ------------ | ------------ | ------------
 Yu-Gi-Oh           | Elf or Vampire   | XMEN         | Mirror Edge  | Juiced       | Mario        | Zelda        |
 Government         | The Order        | The Society  | Police       | Gang         | Professional | Ariana       |
-a game             | supernatural eye | protected    | relations    |              |              |              | 
+a game             | supernatural eye | protected    | relations    | family       | sport        | character    | 
 
 ## Keeping a spirit
 ![Screenshot 2021-03-14 6 27 27 AM](https://user-images.githubusercontent.com/58202540/111066701-6c2c5800-848e-11eb-9bf2-e07e4c1660a8.png)
