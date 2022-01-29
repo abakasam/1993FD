@@ -1,3 +1,11 @@
+# VX
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/1)
+- Host vxheaven.com
+- Write book for logic
+- Organize viruses by nontechnical names
+- Show logic for a DOS virus
+- Run a DOS virus
+
 # 1993FD
 Using the Principles of Virology to match biology and artificial life for synthetic production by using another symbolic language generated with interactions of a computer (hint) like the Influenza virus. The symbolic langugae to describe behavior or logic, like how math does for physics, is all that is wanted. 1993FD is not the AIS. I threw away the book in 2016 created by a doctor and never brought the one called Artificial Chemistry. I will probably never work on NAB(immune system).
 
