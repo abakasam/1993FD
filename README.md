@@ -7,7 +7,7 @@
 - Write book for logic (not circuit nor calculus, symbolic)
 - Computer Memory, Logic <- Binary <-> Sequence -> Reaction, Influenza (Inaccurate)
 - Molecular programming will find accurate sequence?
-No AIS, not possible
+## No AIS, not possible
 - Show logic for a DOS virus
 - Run a DOS virus
 
