@@ -4,12 +4,14 @@
 - Organize viruses by nontechnical names
 - Corewar
   - Observe logic (not circuit nor calclus, symbolic)
-- Write book for logic (not circuit nor calculus, symbolic)
+- Write book for logic
 - Computer Memory, Logic <- Binary <-> Sequence -> Reaction, Influenza (Inaccurate)
-- Molecular programming will find accurate sequence?
+- Attach logic to classified viruses
+
 ## No AIS, not possible
 - Show logic for a DOS virus
 - Run a DOS virus
+- Molecular programming will find accurate sequence?
 
 ## Books to understand for math
 
